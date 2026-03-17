@@ -80,3 +80,57 @@ Problem 8:
 Problem 9:
 
 <img width="958" height="373" alt="a9" src="https://github.com/user-attachments/assets/6035a7a2-ea9f-4b36-adf0-f9fe4b04aedb" />
+
+# Practice Sheet 3
+
+Problem 1:
+
+<img width="955" height="373" alt="3  minimum no of jumps " src="https://github.com/user-attachments/assets/ea02b0bd-03cc-40a0-8f0e-02c09d328e34" />
+
+problem 2:
+
+<img width="955" height="415" alt="3 2" src="https://github.com/user-attachments/assets/2bb28b2b-891c-4502-a02b-75e9423e2b7d" />
+
+problem 3:
+
+<img width="955" height="443" alt="3 3" src="https://github.com/user-attachments/assets/9eb710eb-dce1-46a6-97e1-2294c0c96e03" />
+
+problem 4:
+
+<img width="935" height="418" alt="3 4" src="https://github.com/user-attachments/assets/65c02d58-a9ea-411e-9f67-da8adafa45be" />
+
+problem 5:
+
+<img width="950" height="406" alt="3 5" src="https://github.com/user-attachments/assets/f7a25437-9e53-42bb-9924-0f780ef5159d" />
+
+problem 6:
+
+<img width="949" height="409" alt="3 6" src="https://github.com/user-attachments/assets/0132dc7d-7c7b-4290-892c-1b66ad52c4d0" />
+
+problem 7:
+
+<img width="932" height="413" alt="3 7" src="https://github.com/user-attachments/assets/8ed82260-5353-4fed-8ec5-c87f7dc4bcda" />
+
+problem 8:
+
+<img width="947" height="401" alt="3 8" src="https://github.com/user-attachments/assets/1591d099-66af-4244-8c6b-0e3dc842db2e" />
+
+problem 9:
+
+<img width="940" height="410" alt="3 9" src="https://github.com/user-attachments/assets/93d797bf-36c3-44a6-99c8-0b568e16b217" />
+
+problem 10:
+
+<img width="944" height="411" alt="3 10" src="https://github.com/user-attachments/assets/16c9e12b-b557-438e-a155-53fcaeaf8c31" />
+
+problem 11:
+
+<img width="932" height="402" alt="3 11" src="https://github.com/user-attachments/assets/5d6aa1c4-5491-40ec-9cba-61c2ee5ee1d5" />
+
+problem 12 :
+
+<img width="929" height="429" alt="3 12" src="https://github.com/user-attachments/assets/ad123619-a34b-4b4f-81c7-a84408b44f95" />
+
+problem 13 :
+
+<img width="937" height="420" alt="3 13" src="https://github.com/user-attachments/assets/b2f2d73b-2ce1-49b4-bacd-52d26dccaf8e" />
